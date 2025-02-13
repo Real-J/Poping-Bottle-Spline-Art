@@ -1,4 +1,4 @@
 # Poping-Bottle-Spline-Art
 
 #### Art:
-![Cartoonized Image](bottle.png)
+![spline bottle](bottle.png)
